@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SomebodyLikeEveryBody
+- 👋 Hi, I’m @SomebodyLikeEveryBody, I am physiotherapist by training and open to other areas of expertise
 - 👀 I’m interested in beauty of life and how things works
 - 🌱 I’m currently learning computer science and physics
 - 💞️ I’m looking to collaborate on anything that could be interesting or helping

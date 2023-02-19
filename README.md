@@ -15,7 +15,7 @@
 
 - 🧑🏻‍🎓 Certifications:
   - FreeCodeCamp:
-    - [JavaScript Algorithms and Data Structures (FreeCodeCamp)](https://www.freecodecamp.org/certification/Sleb/javascript-algorithms-and-data-structures)
+    - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Sleb/javascript-algorithms-and-data-structures)
   - Openclassrooms
     - Linux
     - C

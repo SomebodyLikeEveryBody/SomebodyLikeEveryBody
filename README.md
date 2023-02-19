@@ -13,6 +13,9 @@
   - [CalcMenthe](https://github.com/SomebodyLikeEveryBody/CalcMenthe)
   - [MkAccrReplacer](https://github.com/SomebodyLikeEveryBody/MKAccrReplacer)
 
+- 🧑🏻‍🎓 Certifications:
+  - [JavaScript Algorithms and Data Structures (FreeCodeCamp)](https://www.freecodecamp.org/certification/Sleb/javascript-algorithms-and-data-structures)
+
 <!---
 SomebodyLikeEveryBody/SomebodyLikeEveryBody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

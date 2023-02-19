@@ -14,7 +14,22 @@
   - [MkAccrReplacer](https://github.com/SomebodyLikeEveryBody/MKAccrReplacer)
 
 - 🧑🏻‍🎓 Certifications:
-  - [JavaScript Algorithms and Data Structures (FreeCodeCamp)](https://www.freecodecamp.org/certification/Sleb/javascript-algorithms-and-data-structures)
+  - FreeCodeCamp:
+    - [JavaScript Algorithms and Data Structures (FreeCodeCamp)](https://www.freecodecamp.org/certification/Sleb/javascript-algorithms-and-data-structures)
+  - Openclassrooms
+    - Linux
+    - C
+    - C++
+    - Java
+    - Python
+    - HTML5 / CSS3
+    - javascript
+    - nodeJS
+    - PHP
+    - MySQL
+ 
+    
+  
 
 <!---
 SomebodyLikeEveryBody/SomebodyLikeEveryBody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

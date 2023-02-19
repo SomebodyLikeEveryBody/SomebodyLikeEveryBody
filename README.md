@@ -6,7 +6,7 @@
 
 ---
 
-- 👨🏻‍💻 Main projects:
+- ⚙️ Main projects:
   - [Solve4Me](https://somebodylikeeverybody.github.io/Solve4MeV2/build/index.htm) ([ReadMe](https://github.com/SomebodyLikeEveryBody/Solve4MeV2))
   - [Hygi0Quizz](https://github.com/SomebodyLikeEveryBody/Hygi0Quizz)
   - [OpenDictaVoice](https://github.com/SomebodyLikeEveryBody/OpenDictaVoice)

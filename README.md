@@ -25,6 +25,7 @@
     - Python
     - HTML5 / CSS3
     - javascript
+    - Typescript
     - nodeJS
     - PHP
     - MySQL
